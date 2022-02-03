@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1>IPL Dashboard </h1>
+     <h1>IPL Dashboard branch</h1>
     </div>
   );
 }
